@@ -1,4 +1,4 @@
-First for the licence: do whatever you want with this, and I hold no responsibility for whatever you happen to do with this. 
+First for the licence: Do whatever you want with this, and I hold no responsibility for whatever you happen to do with this. aka I don't care what you do, but noone can sue me. 
 
 If you need help with using this for it's intended purpose (changing rocket league from single screen to dual screen and vice versa) contact me at powersgr33@gmail.com.
 
