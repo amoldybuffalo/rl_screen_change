@@ -1,6 +1,6 @@
 First for the licence: do whatever you want with this, and I hold no responsibility for whatever you happen to do with this. 
 
-If you need help with using this for it's intended purpose (changing rocket league from single screen to dual screen and vise versa) contact me at powersgr33@gmail.com.
+If you need help with using this for it's intended purpose (changing rocket league from single screen to dual screen and vice versa) contact me at powersgr33@gmail.com.
 
 Instructions for use:
 If you are using 2 1080p monitors of the same size side by side:
